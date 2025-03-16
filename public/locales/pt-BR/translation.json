@@ -1,0 +1,290 @@
+{
+  "header": {
+    "title": "Assistente de SNS | Instagram Threads",
+    "userGuide": "Como usar",
+    "logout": "sair",
+    "useCoupon": "Uso de cupons"
+  },
+  "footer": {
+    "title": "Extensões de assistente social",
+    "description": "Torne o gerenciamento de mídia social mais fácil e eficiente",
+    "contactUs": "Entre em contato conosco",
+    "email": "E-mail (somente para clientes): wolfye0611@gmail.com",
+    "phone": "Tel: 070-8080-0644 (pago, aberto durante a semana das 09:00 às 18:00)",
+    "copyright": "© 2025 SNS 어시스턴트. Todos os direitos reservados.",
+    "businessRegistration": "Número de registro comercial: 848-52-00702 | CEO: Daae Kim",
+    "hostingService": "Serviço de hospedagem : ALULA | Número de registro comercial por correspondência: No. 2024-Seoul Gangnam-01595",
+    "businessInfo": "Verificar suas informações comerciais",
+    "address": "402, 12, Nambusunhwan-ro 359-gil, Gangnam-gu, Seul (Dogok-dong, Hangdeok Building)",
+    "terms": "Termos de Serviço",
+    "privacyPolicy": "Política de privacidade"
+  },
+  "hero": {
+    "title": "Uma nova era de gerenciamento de mídia social",
+    "description": "Gerencie seus tópicos e o Instagram de uma só vez. Verifique facilmente se há correspondência e automatize as respostas às pessoas que comentam em suas postagens.\n Automatize a resposta às pessoas que deixam comentários em suas postagens.",
+    "startNow": "Comece agora",
+    "imageAlt": "Demonstração da extensão de gerenciamento de acompanhamento"
+  },
+  "pricing": {
+    "title": "Upgrades premium",
+    "freeVersion": "Versão gratuita",
+    "free": "Grátis",
+    "freeDailyUnfollow": "Você pode deixar de seguir 10 tópicos por dia, por dia",
+    "unlimitedThreadUnfollow": "Sinta-se à vontade para deixar de seguir os tópicos!",
+    "unlimitedInstagramUnfollow": "Deixar de seguir livremente no Instagram sem restrições!",
+    "autoDm": "Gerencie seus seguidores facilmente com as respostas automáticas do Instagram!",
+    "autoFollowerGrowth": "Aumente sua influência com o crescimento automático de seguidores no Instagram!",
+    "aiCommenting": "Comentários de IA em suas postagens no Instagram!",
+    "naverNeighborGrowth": "Ativar com aumento automático de vizinhos UP!",
+    "premiumMonthly": "Pagamento mensal da versão Premium",
+    "premiumYearly": "Pagamento anual da versão Premium",
+    "yearlyDiscount": "Disponível com o {{monthlyPrice}} mensal (quando pago anualmente)",
+    "startFree": "Comece a usar gratuitamente",
+    "startPremium": "Faça o upgrade agora",
+    "month": "/ mês"
+  },
+  "demo": {
+    "title": "Como usar as extensões",
+    "videoTitle": "Demonstração da extensão de gerenciamento de acompanhamento",
+    "description": "Você pode ver facilmente como usar a extensão Follow Management assistindo ao vídeo acima.",
+    "installButton": "Instalação a partir da Chrome Web Store"
+  },
+  "testimonials": {
+    "title": "Depoimentos de usuários",
+    "firstInterviewerName": "Ana Souza",
+    "firstInterviewerRole": "Influenciadora Digital",
+    "firstInterviewerContent": "Essa extensão tornou o gerenciamento de meus seguidores muito mais fácil - economiza tempo e é eficiente!",
+    "secondInterviewerName": "Lucas Oliveira",
+    "secondInterviewerRole": "Gerente de Marketing",
+    "secondInterviewerContent": "É muito útil poder gerenciar seguidores de várias plataformas ao mesmo tempo. Altamente recomendado!",
+    "thirdInterviewerName": "Mariana Costa",
+    "thirdInterviewerRole": "Redatora Freelancer",
+    "thirdInterviewerContent": "Adoro a interface intuitiva e fácil de usar. É um ótimo complemento para minha estratégia de mídia social."
+  },
+  "login": {
+    "backToHome": "Voltar para a página inicial",
+    "backToEmail": "Voltar para o e-mail",
+    "signup": "Registrar-se",
+    "login": "Login",
+    "setPassword": "Escolha uma senha.",
+    "enterPassword": "Digite sua senha.",
+    "passwordPlaceholder": "Digite sua senha",
+    "passwordHint": "Defina-o com pelo menos 8 dígitos.",
+    "enterEmail": "Digite seu e-mail para criar uma conta ou fazer login.",
+    "emailPlaceholder": "Digite seu e-mail",
+    "loading": "Carregando...",
+    "continue": "Continuar"
+  },
+  "notFound": {
+    "message": "Página não encontrada.",
+    "homeLink": "Voltar para a página inicial"
+  },
+  "payment": {
+    "premiumUpgrade": "Upgrades premium",
+    "paymentInfo": "Informações de pagamento",
+    "lifetimePremium": "Acesso premium vitalício",
+    "alreadyPaid": "O pagamento já foi feito.",
+    "orderFailed": "O pagamento falhou, tente novamente.",
+    "paymentFailed": "O pagamento falhou, tente novamente.",
+    "enterPhoneNumber": "Digite seu número de telefone celular",
+    "phoneNumberInfo": "Precisamos dessas informações para que possamos enviar sua compra com segurança.",
+    "processing": "Processamento...",
+    "payButton": "Efetuar um pagamento",
+    "successToast": "Seu pagamento foi bem-sucedido! 🎉 Obrigado!",
+    "errorToast": "Seu pagamento falhou 😢",
+    "pendingToast": "Estou dando uma olhada ⏳.",
+    "monthlyPlan": "Pagamentos mensais",
+    "yearlyPlan": "Pagamento anual"
+  },
+  "privacyPolicy": {
+    "title": "Política de privacidade",
+    "section1": {
+      "title": "1. quais informações pessoais coletamos",
+      "item1": "Endereço de e-mail",
+      "item2": "Senha"
+    },
+    "section2": {
+      "title": "2. Objetivo da coleta e do uso de informações pessoais",
+      "content": "Coletamos informações pessoais com a finalidade de identificá-lo para registro e autenticação, além de fornecer e operar nossos serviços."
+    },
+    "section3": {
+      "title": "3. período de retenção e uso de informações pessoais",
+      "content": "As informações pessoais serão retidas pelo período de uso do serviço a partir do momento do registro e serão destruídas sem demora se o usuário se retirar do serviço. Entretanto, se for exigido por lei que as informações sejam mantidas por um determinado período de tempo, elas serão mantidas por esse período."
+    },
+    "section4": {
+      "title": "4. fornecimento de dados pessoais a terceiros",
+      "content": "O Serviço não fornece suas informações pessoais a terceiros, exceto quando exigido por lei ou com seu consentimento."
+    },
+    "section5": {
+      "title": "5. medidas técnicas e administrativas para proteger os dados pessoais",
+      "content": "As senhas são armazenadas criptografadas e gerenciadas em um ambiente de servidor seguro. O Serviço toma medidas técnicas e administrativas para evitar o vazamento de informações pessoais."
+    },
+    "section6": {
+      "title": "6. seus direitos",
+      "content": "Você pode solicitar acesso, correção ou exclusão de seus dados pessoais a qualquer momento. Nesse caso, o Serviço tomará as medidas necessárias para fazê-lo prontamente."
+    },
+    "section7": {
+      "title": "7. alterações na Política de Privacidade",
+      "content": "Esta Política de Privacidade está sujeita a alterações e forneceremos aviso prévio sobre quaisquer alterações."
+    }
+  },
+  "terms": {
+    "title": "Termos de Serviço do Find Real Friends",
+    "section1": {
+      "title": "Artigo 1 Objetivo",
+      "content": "Estes Termos e Condições estabelecem os direitos, as obrigações e as responsabilidades entre o Site e o Usuário no uso do serviço \"SNS Assistant\" (doravante denominado \"Serviço\")."
+    },
+    "section2": {
+      "title": "Artigo 2 Definições",
+      "item1": "\"Site\" significa a extensão do Chrome \"Social Assistant\" e todos os serviços oferecidos pelo Site.",
+      "item2": "\"Usuário\" significa uma pessoa que completa o registro e usa o Serviço de acordo com estes Termos.",
+      "item3": "\"Membro\" significa uma pessoa que se registrou no Site e pode usar os serviços fornecidos pelo Site de forma contínua."
+    },
+    "section3": {
+      "title": "Seção 3 Efeito e alterações nos Termos",
+      "item1": "Estes Termos entram em vigor quando você os aceita ao se registrar.",
+      "item2": "\"O Site pode alterar os Termos, e os Termos alterados entrarão em vigor mediante notificação."
+    },
+    "section4": {
+      "title": "Artigo 4 Prestação de serviços",
+      "item1": "\"Sites\" permite comparar tópicos em sua meta, seus seguidores e seguidores no Instagram para identificar usuários de que você não gosta e, opcionalmente, deixar de segui-los.",
+      "item2": "O \"Site\" oferece às pessoas que comentam suas publicações no Instagram a capacidade de responder com um comentário apropriado em seu nome usando IA."
+    },
+    "section5": {
+      "title": "Artigo 5 Associação",
+      "item1": "A inscrição é feita digitando seu endereço de e-mail e senha.",
+      "item2": "Você deve fornecer informações precisas e poderá ser impedido de usar os Serviços caso se inscreva com informações falsas."
+    },
+    "section6": {
+      "title": "Artigo 6 Obrigações dos Membros",
+      "item1": "Os membros devem usar todos os serviços fornecidos pelo Site de acordo com os Termos e as leis aplicáveis.",
+      "item2": "Os membros não podem compartilhar suas senhas com outras pessoas ou usar a conta de outra pessoa sem permissão."
+    },
+    "section7": {
+      "title": "Seção 7 Restrições de uso do Serviço",
+      "item1": "O Site poderá restringir o uso dos Serviços por um Membro se ele se enquadrar em qualquer uma das seguintes circunstâncias",
+      "item2": "Uso não autorizado das informações da conta de outra pessoa.",
+      "item3": "Você forneceu informações falsas.",
+      "item4": "Você se envolveu em conduta que viola as leis aplicáveis. Ao restringir o uso do Serviço, nós o notificaremos com antecedência, mas poderemos notificá-lo após o fato, se houver uma emergência."
+    },
+    "section8": {
+      "title": "Artigo 8 Interrupção do serviço",
+      "item1": "\"O Site poderá suspender a prestação do Serviço para manutenção de rotina ou por motivos inevitáveis.",
+      "item2": "No caso de uma interrupção de serviço, notificaremos os membros com antecedência."
+    },
+    "section9": {
+      "title": "Seção 9 Privacidade",
+      "item1": "\"O Site manterá suas informações pessoais seguras e protegidas de acordo com a lei e não as fornecerá a terceiros sem o seu consentimento.",
+      "item2": "Os detalhes de nossa coleta e uso de dados pessoais estão definidos em nossa Política de Privacidade."
+    },
+    "section10": {
+      "title": "seção 10 limitação de responsabilidade",
+      "item1": "\"O Site não será responsável por quaisquer problemas decorrentes do uso do Serviço pelo Membro, exceto em casos de negligência intencional ou grave por parte do Site.",
+      "item2": "\"O Site não se responsabiliza por quaisquer interrupções ou mudanças no serviço devido a mudanças nas políticas de API e plataformas de terceiros."
+    },
+    "section11": {
+      "title": "Artigo 11 Política de reembolso",
+      "item1": "Se você solicitar um reembolso em até 7 dias após o pagamento, receberá um reembolso total. Entretanto, os reembolsos são limitados nos seguintes casos",
+      "item2": "- Você já deu mais de 20 unfollows, bots de comentários do Instagram.",
+      "item3": "As solicitações de reembolso são aceitas por e-mail, ChannelTalk, e serão processadas em até 7 dias após a solicitação."
+    },
+    "section12": {
+      "title": "seção 12 resolução de disputas",
+      "item1": "As disputas relacionadas a estes Termos serão regidas pelas leis da República da Coreia.",
+      "item2": "No caso de uma disputa, o Site e o Membro tentarão resolvê-la por meio de consulta mútua. Se isso não for possível, a disputa estará sujeita à adjudicação por um tribunal de jurisdição competente."
+    }
+  },
+  "dashboard": {
+    "title": "Meu painel de controle",
+    "userInfo": "Sobre mim",
+    "chromeExtensionTitle": "Instalando a extensão do Chrome",
+    "chromeExtensionDescription": "Para obter a funcionalidade completa do Follow Management, instale a extensão do Chrome.",
+    "chromeExtensionButton": "Instalando a extensão do Chrome",
+    "statisticsTitle": "Estatísticas de uso",
+    "statisticsDescription": "O número de tarefas que foram processadas pelo aplicativo até o momento."
+  },
+  "userGuide": {
+    "title": "Como usar",
+    "step1": {
+      "title": "Ative a extensão do Social Assistant.",
+      "description": "Primeiro, inicie a extensão do Social Assistant para o Chrome."
+    },
+    "step2": {
+      "title": "Toque no trabalho desejado, digite seu nome de usuário e personalize os detalhes do trabalho de acordo com sua preferência.",
+      "description": "Depois de selecionar uma tarefa, digite seu nome de usuário e as informações necessárias."
+    },
+    "step3": {
+      "title": "Deixe uma guia do Chrome aberta enquanto trabalha, depois faça outra coisa ou dê uma olhada.",
+      "description": "Mantenha uma guia do Chrome aberta enquanto trabalha, faz outra coisa ou navega."
+    }
+  },
+  "userDashboard": {
+    "nickname": "Apelido",
+    "email": "E-mail",
+    "subscriptionType": "Tipos de uso",
+    "premium": "🌟 Premium",
+    "free": "Grátis",
+    "upgradeTitle": "Upgrade para Premium",
+    "upgradeDescription": "Obtenha acesso ilimitado aos recursos premium para {{monthPrice}} por mês e {{yearlyPrice}} por ano!",
+    "upgradeButton": "Faça o upgrade agora",
+    "unfollowThreadsCount": "Número de tópicos que deixaram de ser seguidos",
+    "unfollowInstagramCount": "Número de não seguidos no Instagram",
+    "instagramAutomationCount": "Número de registros de comentários automáticos no Instagram",
+    "naverAutomationCount": "Número de registros de comentários automáticos do NAVER",
+    "deleteAccountButton": "Retirada",
+    "expiryDateLabel": "Data de expiração da versão Premium:",
+    "noAccess": "Sem assinatura",
+    "freeTrialMessage": "Ao se inscrever, você recebe uma avaliação gratuita de 7 dias da versão premium."
+  },
+  "deleteAccountModal": {
+    "title": "Confirmar a retirada da filiação",
+    "message": "Tem certeza de que deseja prosseguir com o cancelamento? Todas as informações serão excluídas permanentemente.",
+    "confirmButton": "Confirmar",
+    "cancelButton": "Cancel"
+  },
+  "account": {
+    "createSuccess": "Você fez o login com sucesso! 🎉 Obrigado!",
+    "createError": "O login falhou 😢",
+    "creating": "Você está conectado ⏳",
+    "deleteSuccess": "A exclusão da conta foi bem-sucedida! Parabéns!",
+    "deleteError": "Falha na exclusão da conta 😢 ðŸ",
+    "deleting": "Exclusão de uma conta ⏳"
+  },
+  "profile": {
+    "editSuccess": "Modificação de senha bem-sucedida! Você modificou sua senha com sucesso!",
+    "editError": "Falha na modificação da senha 😢",
+    "editing": "Modificação de sua senha ⏳"
+  },
+  "logout": {
+    "success": "Você efetuou o logout com sucesso! 🎉 Obrigado!",
+    "error": "Falha no logout 😢",
+    "pending": "Você está se desconectando ⏳."
+  },
+  "subscription": {
+    "upgradeSuccess": "Você recebeu um upgrade para uma assinatura premium! 🎉 Obrigado!",
+    "changeToFree": "Mudou para uma assinatura gratuita!",
+    "changeError": "Falha ao alterar o tipo de assinatura 😢",
+    "changing": "Alteração do tipo de assinatura ⏳"
+  },
+  "couponPage": {
+    "title": "Registre um cupom",
+    "description": "Digite o número do cupom que você possui.",
+    "placeholder": "Digite o número do seu cupom",
+    "caseSensitive": "* Os números dos cupons diferenciam maiúsculas de minúsculas",
+    "submitButton": "Registre um cupom",
+    "successMessage": "Você resgatou seu cupom com sucesso!",
+    "errorMessage": "Falha ao resgatar o cupom 😢",
+    "pendingMessage": "Estou usando um cupom de desconto ⏳."
+  },
+  "event": {
+    "title": "Participe de um evento",
+    "description": "Depois de instalar nossa extensão para o Chrome, conte-nos o que achou! Escreva uma avaliação de pelo menos 100 palavras para se qualificar para participar.",
+    "instructions": "Basta fazer uma captura de tela com sua avaliação e enviá-la de uma das formas abaixo:",
+    "instagramDM": "1ª DM do Instagram:",
+    "email": "2. e-mail:",
+    "couponInfo": "Assim que sua avaliação for verificada, nós lhe enviaremos uma assinatura de um mês da versão Premium (validade: 30 dias a partir da data de emissão)!",
+    "wordLimit": "Você deve deixar uma avaliação de pelo menos 100 palavras para se qualificar para participar. Gostaríamos muito de ouvir sua opinião!",
+    "participateButton": "Participe de um evento",
+    "imageAlt": "Imagens do evento"
+  }
+}

@@ -4,7 +4,6 @@ import PrivateRoute from './PrivateRoute';
 import NotFoundPage from '@/pages/NotFoundPage';
 import AdminRoute from './AdminRoute';
 import ResetPasswordPage from '@/pages/ResetPasswordPage';
-import ResetPasswordRedirectPage from '@/pages/ResetPasswordRedirectPage';
 
 interface RouterBase {
   path: string;
